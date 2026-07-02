@@ -13,6 +13,14 @@ The system leverages **Hexagonal Architecture (Ports & Adapters)** in the Java b
 
 ---
 
+## 🔗 Project Tracking & Knowledge Base
+
+To coordinate and monitor engineering milestones, development workflows are tied directly to our agile tracking and documentation systems:
+* **Jira Kanban Board:** [Active Tasks, Backlog Management & Issue Lifecycle](https://novavia2026.atlassian.net/jira/software/projects/BIO/list?jql=project%20%3D%20BIO%20ORDER%20BY%20cf%5B10019%5D%20ASC)
+* **Confluence Workspace:** [Architecture Blueprints, Technical Specifications & ADRs](https://novavia2026.atlassian.net/wiki/spaces/BIO/overview?homepageId=15499432)
+
+---
+
 ## 🏗️ System Architecture & Data Flow
 
 The platform functions as a highly decoupled event-driven ecosystem structured across four main structural tiers:
