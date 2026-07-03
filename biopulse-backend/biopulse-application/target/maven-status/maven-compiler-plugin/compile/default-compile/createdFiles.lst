@@ -1,5 +1,0 @@
-com/biopulse/application/ports/in/IngestBiometricsUseCase.class
-com/biopulse/application/ports/out/PatientRepositoryPort.class
-com/biopulse/application/ports/out/BiometricRecordRepositoryPort.class
-com/biopulse/application/ports/in/IngestBiometricsCommand$IngestBiometricsCommandBuilder.class
-com/biopulse/application/ports/in/IngestBiometricsCommand.class

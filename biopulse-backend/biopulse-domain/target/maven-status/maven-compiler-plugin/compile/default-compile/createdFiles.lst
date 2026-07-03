@@ -1,9 +1,0 @@
-com/biopulse/domain/model/Patient.class
-com/biopulse/domain/model/BiometricRecord.class
-com/biopulse/domain/exception/InvalidBiometricRangeException.class
-com/biopulse/domain/model/BiometricRecord$BiometricRecordBuilder.class
-com/biopulse/domain/exception/DomainException.class
-com/biopulse/domain/model/PatientStatus.class
-com/biopulse/domain/exception/InvalidPatientAgeException.class
-com/biopulse/domain/exception/CardiovascularIncoherenceException.class
-com/biopulse/domain/model/Patient$PatientBuilder.class
