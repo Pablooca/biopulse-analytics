@@ -1,0 +1,7 @@
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-domain/src/main/java/com/biopulse/domain/exception/CardiovascularIncoherenceException.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-domain/src/main/java/com/biopulse/domain/exception/DomainException.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-domain/src/main/java/com/biopulse/domain/exception/InvalidBiometricRangeException.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-domain/src/main/java/com/biopulse/domain/exception/InvalidPatientAgeException.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-domain/src/main/java/com/biopulse/domain/model/BiometricRecord.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-domain/src/main/java/com/biopulse/domain/model/Patient.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-domain/src/main/java/com/biopulse/domain/model/PatientStatus.java
