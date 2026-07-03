@@ -29,6 +29,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-boot.version>3.3.1</spring-boot.version>
         <camunda.version>7.21.0</camunda.version>
+        <junit-jupiter.version>5.11.0</junit-jupiter.version>
     </properties>
 
     <dependencyManagement>
@@ -79,6 +80,12 @@
                 <groupId>com.biopulse</groupId>
                 <artifactId>biopulse-adapter-camunda</artifactId>
                 <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter</artifactId>
+                <version>${junit-jupiter.version}</version>
+                <scope>test</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>

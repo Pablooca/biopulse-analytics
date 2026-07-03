@@ -10,6 +10,13 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+        </dependency>
+    </dependencies>
+
     <artifactId>biopulse-domain</artifactId>
     <name>biopulse-domain</name>
 </project>
