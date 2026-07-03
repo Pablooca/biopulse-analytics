@@ -1,0 +1,4 @@
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-application/src/main/java/com/biopulse/application/ports/in/IngestBiometricsCommand.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-application/src/main/java/com/biopulse/application/ports/in/IngestBiometricsUseCase.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-application/src/main/java/com/biopulse/application/ports/out/BiometricRecordRepositoryPort.java
+/Users/pocagal/Desktop/Proyectos Personales/biopulse-analytics/biopulse-backend/biopulse-application/src/main/java/com/biopulse/application/ports/out/PatientRepositoryPort.java
